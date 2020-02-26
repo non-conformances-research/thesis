@@ -21,7 +21,7 @@
  | Collection | new ArrayList(), new ArrayList("", " ", "gEuOVmBvn1", "#A1"), null |
  |Other      | new Object() and null |     
 
-**Table II. Values for Java primitive and non-primitive types used to create test cases.**
+**Table I. Values for Java primitive and non-primitive types used to create test cases.**
 
 ### Results
  
@@ -62,4 +62,4 @@
  |WeakHashMap 			| Specification | 9063255	| Open |
  |WeakHashMap 			| Eclipse OpenJ9| https://github.com/eclipse/openj9/issues/8224 | Rejected |
 
-**Table III. Reported candidates.**
+**Table II. Reported candidates.**

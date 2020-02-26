@@ -20,7 +20,7 @@
  |*Class[]*  | new Class[][]{new Class[]{int.class}, new Class[]{long.class}, new Class[]{double.class}, new Class[]{boolean.class}, new Class[]{char.class}, new Class[]{float.class}, new Class[]{short.class}, new Class[]{String.class}, new Class[]{Class.class}, new Class[]{Class[].class}, new Class[]{Object.class}} |
  |Other      | new Object() and null |     
 
-**Table II. Values for Java primitive and non-primitive types used to create test cases.**
+**Table I. Values for Java primitive and non-primitive types used to create test cases.**
 
  * [Input Programs](subjects.xlsx)
 
@@ -100,4 +100,4 @@
  |Parameter.getParameterizedType 	| Eclipse OpenJ9| https://github.com/eclipse/openj9/issues/1854			|Fixed |
  |Parameter.toString 			| Eclipse OpenJ9| https://github.com/eclipse/openj9/issues/1853			|Fixed |
 
-**Table III. Reported candidates.**
+**Table II. Reported candidates.**
