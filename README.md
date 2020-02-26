@@ -25,7 +25,7 @@
 
 ## Surveys
 
- * [Java](surveys/java)
+ * [Java](surveys/java/README.md)
  * [.net](surveys/dotnet/README.md)
 
 ## Technique

@@ -1,16 +1,9 @@
-# A Survey to Investigate the Understanding of Users and Developers about the .NET Reflection API Specification (Artifacts)
-
-## Projects
-
- We invite 1,507 users of the trending C# repositories of GitHub at Sep 10, 2018, and 1,134 .NET Reflection API developers.
-
- * [All C# Projects](projects.xlsx)
+# A Survey to Investigate the Understanding of Users about the Java Reflection API Specification (Artifacts)
 
 ## Survey
 
  * [Questions](questions.pdf)
- * [Users' responses](users-responses.xlsx)
- * [Developers' responses](developers-responses.xlsx)
+ * [Responses](responses.xlsx)
 
 ## Statistical Tests
 
